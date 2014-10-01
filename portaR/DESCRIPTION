@@ -1,0 +1,10 @@
+Package: portaR
+Type: Package
+Title: R package implementing the PORTA polyhedron library
+Version: 0.1.0
+Date: 2014-10-01
+Author: Richard D. Morey
+Maintainer: Richard D. Morey <richarddmorey@gmail.com>
+Description: R package implementing the PORTA polyhedron library
+License: GPL3
+LazyLoad: yes
